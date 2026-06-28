@@ -1,3 +1,4 @@
 # RolandRG
-Tennis roject
-Author Subhash Yadav
+Tennis Project
+
+Author: Subhash Yadav
